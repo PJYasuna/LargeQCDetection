@@ -1,7 +1,7 @@
 //
 //  FastNBSim.cpp
 //
-//  Created by Joe on 2023/4/5.
+//  Created by on 2023/4/5.
 //
 
 #include "FastNBSim.h"
