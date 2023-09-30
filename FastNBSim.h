@@ -1,6 +1,5 @@
 //
-//  findClique.h
-//  find_cliuqe_f
+//  FastNBSim.h
 //
 //  Created by 庞嘉扬 on 2023/4/5.
 //
