@@ -1,7 +1,7 @@
 //
 //  FastNBSim.h
 //
-//  Created by 庞嘉扬 on 2023/4/5.
+//  Created by on 2023/4/5.
 //
 
 #ifndef FastNBSim_h
