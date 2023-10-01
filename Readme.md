@@ -8,7 +8,7 @@ All datasets used in our experiments are from [SNAP](https://snap.stanford.edu/d
 
 ## How to run the code
 
-To compile the program, first put all the source files in a directly, and just execute
+To compile the program, first put all the source files in a directory, and just execute
 
 ```
 make
