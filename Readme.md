@@ -1,7 +1,6 @@
 # Readme
 
-This is the source code for my paper, A Similarity-based Approach for Efficient Large Quasi-clique Detection, which has been accepted by WWW 2024. The current version of the paper requires some modifications, and I plan to upload the final version soon.
-
+This is the source code for my paper, A Similarity-based Approach for Efficient Large Quasi-clique Detection, which has been accepted by WWW 2024. 
 The program is written in C++ code. It uses only the basic library, so you can compile it in any environment.
 
 ## Dataset infor
